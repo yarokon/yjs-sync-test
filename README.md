@@ -1,4 +1,4 @@
 # yjs-sync-test
 
-date 30.11.2022
-time 19:50 local
+date 01.12.2022
+time 13:15 local
